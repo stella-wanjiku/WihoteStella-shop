@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/stella-wanjiku/backend.git
+[submodule "Wihote-frontend"]
+	path = Wihote-frontend
+	url = https://github.com/stella-wanjiku/Wihote-frontend.git
